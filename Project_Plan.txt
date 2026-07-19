@@ -1,0 +1,8 @@
+Project Plan
+
+Requirement Gathering
+Design
+Implementation
+Testing
+Deployment
+
